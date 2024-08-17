@@ -1,2 +1,2 @@
-# City_Assist_App
-CityAssist is a comprehensive application designed to facilitate efficient management and resolution of civic issues within urban areas.
+<h1># City_Assist_App</h1>
+<h3>CityAssist is a comprehensive application designed to facilitate efficient management and resolution of civic issues within urban areas. It empowers citizens by providing a user-friendly platform to report, update, and track cases related to municipal services and urban infrastructure. This initiative aims to foster better communication between city authorities and residents, leading to improved service delivery and enhanced urban living conditions.</h3>
