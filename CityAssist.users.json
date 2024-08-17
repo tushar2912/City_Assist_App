@@ -1,0 +1,145 @@
+[{
+  "_id": {
+    "$oid": "667d4ad429329a54d7a2d550"
+  },
+  "title": "Pothole on Main Street",
+  "description": "There is a large pothole on Main Street near the intersection with 1st Avenue. It has been there for a few weeks and is causing problems for drivers.",
+  "status": "open",
+  "createdAt": {
+    "$date": "2023-06-01T08:30:00.000Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-25T08:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "667d4ad429329a54d7a2d551"
+  },
+  "title": "Street Light Outage",
+  "description": "The street light on Elm Street between 3rd and 4th Avenue has been out for a week. It's making the area very dark at night.",
+  "status": "closed",
+  "createdAt": {
+    "$date": "2023-06-15T19:45:00.000Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-16T10:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "667d4ad429329a54d7a2d552"
+  },
+  "title": "Garbage Collection Issue",
+  "description": "Garbage has not been collected on Oak Street for the past two scheduled pickups. The bins are overflowing.",
+  "status": "closed",
+  "createdAt": {
+    "$date": "2023-05-20T07:15:00.000Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-22T11:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "667d4ad429329a54d7a2d553"
+  },
+  "title": "Broken Water Main",
+  "description": "A water main burst on Pine Street, causing flooding and water supply issues for nearby homes.",
+  "status": "open",
+  "createdAt": {
+    "$date": "2023-06-25T14:00:00.000Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-25T14:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "667d4ad429329a54d7a2d554"
+  },
+  "title": "Graffiti on Public Buildings",
+  "description": "Several public buildings on Market Street have been vandalized with graffiti. It needs to be cleaned up.",
+  "status": "in-progress",
+  "createdAt": {
+    "$date": "2023-06-10T09:30:00.000Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-11T16:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "667d7831d82d463b822fbcff"
+  },
+  "title": "Crime Rate Increasing",
+  "description": "Now a days the crime rate has been increasing constantly, we have to do something about it",
+  "status": "in-progress",
+  "createdAt": {
+    "$date": "2024-06-27T14:33:21.010Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-29T14:33:21.010Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "667d885a47e51615306168db"
+  },
+  "title": "Garbage Collection Problem",
+  "description": "Garbage Collection file is very poor in our area. people are throwing garbage anywhere they want.we should implement strict rules",
+  "status": "open",
+  "createdAt": {
+    "$date": "2024-06-27T15:42:17.637Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-27T15:42:17.637Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "667d8a1747e51615306168e2"
+  },
+  "title": "Corruption Problem",
+  "description": "People are becoming Corrupt.No Work is getting done in time without any bribe",
+  "status": "open",
+  "createdAt": {
+    "$date": "2024-06-27T15:49:43.147Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-27T15:49:43.147Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "667d8a8447e51615306168e6"
+  },
+  "title": "Drug Problem",
+  "description": "people are taking drugs and are becoming drug addicts",
+  "status": "open",
+  "createdAt": {
+    "$date": "2024-06-27T15:51:31.731Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-27T15:51:31.731Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "667d8acb47e51615306168e8"
+  },
+  "title": "Drink Problem",
+  "description": "people are drinking a lot.This needs to stop",
+  "status": "open",
+  "createdAt": {
+    "$date": "2024-06-27T15:52:42.597Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-27T15:52:42.597Z"
+  },
+  "__v": 0
+}]
